@@ -1,0 +1,11 @@
+SUPERMERCADO,HORA DEL DIA,PRESUPUESTO,MOVILIZACIÓN,CANTIDAD PERSONAS PARA COMPRAR,IR O NO IR
+Walmart,Mañana,30000,Bicicleta,1,Si
+Palí,Tarde,50000,Bus,2,Si
+Perimercados,Noche,100000,Carro,3,Si
+Palí,Mañana,30000,Bus,1,No
+Walmart,Tarde,50000,Taxi,2,No
+Perimercados,Noche,100000,Carro,1,No
+Palí,Mañana,30000,Carro,1,No
+Walmart,Tarde,50000,Pie,2,Si
+Perimercados,Noche,100000,Bus,3,No
+Walmart,Mañana,100000,Taxi,3,Si
